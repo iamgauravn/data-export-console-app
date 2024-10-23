@@ -1,0 +1,5 @@
+ActivityId	ActivityName	Description	Location	StartDate	EndDate	CreatedBy	CreatedDate	UpdatedBy	UpdatedDate	IsDelete	IsActive
+1	Personality Development	Communications	Codex Lancers , Nanpura	09-05-2024 11:42:41	09-05-2024 14:42:49	2	08-05-2024 06:13:03	0	01-01-0001 00:00:00	True	False
+2	Sports Activity	Box Cricket Tournament	C.B.Patel Ground	11-05-2024 13:00:00	11-05-2024 17:30:00	2	08-05-2024 06:14:37	0	01-01-0001 00:00:00	True	False
+3	jjs	jido	iwhg hewi 	10-05-2024 16:41:48	10-05-2024 21:41:54	2	08-05-2024 11:12:03	0	01-01-0001 00:00:00	False	False
+4	Fun Day	Game's	Main branch	09-05-2024 20:55:45	10-05-2024 20:55:52	2	08-05-2024 15:25:56	0	01-01-0001 00:00:00	False	False
